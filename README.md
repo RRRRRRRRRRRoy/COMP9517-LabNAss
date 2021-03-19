@@ -1,9 +1,9 @@
 # COMP9517-LabNAss
 ## For COMP9517 Labs and Assignments
 
-## Due to the jupyter notebook extension error 
+### Due to the jupyter notebook extension error ---> Solved
 
-## the following work will move to Repository COMP9517_continue 
+### the following work will move to Repository COMP9517_continue ---> Solved
 
 ### The appearance of this bug was finally found out.<br>
 ### This bug is due to when using the jupyter extension.<br>
