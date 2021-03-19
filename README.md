@@ -5,7 +5,7 @@
 
 ### the following work will move to Repository COMP9517_continue ---> Solved
 
-### ------------------------------------------------
+### -------------------------------------------------------------------------------------
 
 ### The appearance of this bug was finally found out.<br>
 ### This bug is due to when using the jupyter extension.<br>
