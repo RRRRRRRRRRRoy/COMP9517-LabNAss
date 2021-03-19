@@ -5,9 +5,10 @@
 
 ## the following work will move to Repository COMP9517_continue 
 
-### The appearance of this bug was finally find out<br>
-### This bug is due to when using the jupyter extension<br>
+### The appearance of this bug was finally found out.<br>
+### This bug is due to when using the jupyter extension.<br>
 ### in the VScode. The extension will add some<br>
-### redirect file in the jupyter/kernels/*. <br>
+### redirect files in the jupyter/kernels/*. <br>
 ### This will cause the error.
-### Therefore, clean up the file can solve the problem
+### Furthermore, clean up these files can solve the problem. <br>
+### Currently, no official solution is available
